@@ -1,4 +1,4 @@
-## KIM JUN SEOK 👋
+## KIM JUN SEOK ✋
 
 ![ GitHub stats](https://github-readme-stats.vercel.app/api?username=junhub98&show_icons=true&theme=tokyonight)
 
