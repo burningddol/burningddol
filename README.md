@@ -9,3 +9,5 @@
 
 
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=junhub)](https://solved.ac/junhub/)
+신나게 푸는중 5월까지 골드 목표
